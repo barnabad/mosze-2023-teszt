@@ -33,5 +33,7 @@ int main()
 
     delete[] b;
 
+    std::cout << "Milyen csodás ez a Nap!" << std::endl;
+
     return 0;
 }
